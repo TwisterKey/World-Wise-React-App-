@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "San Martin de la Vega",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-29T08:49:24.602Z",
+      "notes": "hgfhgf",
+      "position": {
+        "lat": "40.25085429090682",
+        "lng": "-3.5825237738483584"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Villamayor de Campos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-29T08:49:29.982Z",
+      "notes": "hjgfjhgf",
+      "position": {
+        "lat": "41.90402485343943",
+        "lng": "-5.385089016808112"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Ahun",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-01-29T08:49:35.450Z",
+      "notes": "hfdhgfd",
+      "position": {
+        "lat": "46.0780469901829",
+        "lng": "2.018284374527557"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Maldaresti",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2024-01-29T08:49:40.624Z",
+      "notes": "hgfdhgfd",
+      "position": {
+        "lat": "45.092697347279824",
+        "lng": "23.98919697101938"
+      },
+      "id": 4
+    }
+  ]
+}
